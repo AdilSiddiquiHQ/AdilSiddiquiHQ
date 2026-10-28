@@ -70,11 +70,7 @@ A biological neural network, digitised and trained to play chess. The open-sourc
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,dart,nodejs,nextjs,react,tailwind,supabase,postgres,docker,git,pytorch,linux&amp;perline=14&amp;theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,dart,nodejs,nextjs,react,tailwind,supabase,postgres,docker,git,pytorch,linux&amp;perline=14&amp;theme=light" />
-  <img alt="TypeScript, JavaScript, Python, Dart, Node.js, Next.js, React, Tailwind, Supabase, PostgreSQL, Docker, Git, PyTorch, Linux" src="https://skillicons.dev/icons?i=ts,js,py,dart,nodejs,nextjs,react,tailwind,supabase,postgres,docker,git,pytorch,linux&amp;perline=14&amp;theme=dark" />
-</picture>
+<img alt="TypeScript, JavaScript, Python, Dart, Node.js, Next.js, React, Tailwind, Supabase, PostgreSQL, Docker, Git, PyTorch, Linux" src="https://skillicons.dev/icons?i=ts,js,py,dart,nodejs,nextjs,react,tailwind,supabase,postgres,docker,git,pytorch,linux&amp;perline=14&amp;theme=dark" />
 
 </div>
 
