@@ -9,9 +9,9 @@
 <br />
 
 <a href="https://www.adilsiddiqui.xyz/"><img alt="Website" src="https://img.shields.io/badge/Website-0D1117?style=flat-square" /></a>
-<a href="https://www.linkedin.com/in/adil-siddiqui-227474355"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/adilsiddiquihq"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&amp;logo=linkedin&amp;logoColor=white" /></a>
 <a href="https://x.com/AdilSiddiquiHQ"><img alt="X" src="https://img.shields.io/badge/-0D1117?style=flat-square&amp;logo=x&amp;logoColor=white" /></a>
-<a href="https://www.youtube.com/@ninjazhustlerr"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-0D1117?style=flat-square&amp;logo=youtube&amp;logoColor=white" /></a>
+<a href="https://www.youtube.com/@ninjaxhustlerr"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-0D1117?style=flat-square&amp;logo=youtube&amp;logoColor=white" /></a>
 <a href="https://www.instagram.com/ninjaxhustlerr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&amp;logo=instagram&amp;logoColor=white" /></a>
 
 </div>
