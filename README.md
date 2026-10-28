@@ -1,20 +1,22 @@
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Adil Siddiqui — Founder, NinjaLabs" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.adilsiddiqui.xyz/"><img alt="Website" src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&amp;logoColor=22d3ee" /></a>
-  <a href="https://www.linkedin.com/in/adil-siddiqui-227474355"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0a66c2" /></a>
-  <a href="https://x.com/AdilSiddiquiHQ"><img alt="X" src="https://img.shields.io/badge/-0d1117?style=for-the-badge&amp;logo=x&amp;logoColor=ffffff" /></a>
-  <a href="https://www.youtube.com/@ninjazhustlerr"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&amp;logo=youtube&amp;logoColor=ff0000" /></a>
-  <a href="https://www.instagram.com/ninjaxhustlerr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&amp;logo=instagram&amp;logoColor=e4405f" /></a>
-</p>
+<h1>Adil Siddiqui</h1>
 
-<p align="center">
-  <img alt="Building" src="https://img.shields.io/badge/BUILDING-NinjaLabs-0d1117?style=flat-square&amp;labelColor=22d3ee&amp;logoColor=0d1117" />
-  <img alt="Shipping" src="https://img.shields.io/badge/SHIPPING-Save%20%26%20Send%20v1.3.2-0d1117?style=flat-square&amp;labelColor=10b981&amp;logoColor=0d1117" />
-  <img alt="Location" src="https://img.shields.io/badge/LOCATION-India-0d1117?style=flat-square&amp;labelColor=94a3b8&amp;logoColor=0d1117" />
-</p>
+**Founder, [NinjaLabs](https://www.adilsiddiqui.xyz/)** &nbsp;·&nbsp; I build software that runs where there is no server.
+
+<sub>Local-first apps &nbsp;·&nbsp; agent tooling that survives adversarial input &nbsp;·&nbsp; whatever the problem actually needs</sub>
+
+<br />
+
+<a href="https://www.adilsiddiqui.xyz/"><img alt="Website" src="https://img.shields.io/badge/Website-0D1117?style=flat-square" /></a>
+<a href="https://www.linkedin.com/in/adil-siddiqui-227474355"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="https://x.com/AdilSiddiquiHQ"><img alt="X" src="https://img.shields.io/badge/-0D1117?style=flat-square&amp;logo=x&amp;logoColor=white" /></a>
+<a href="https://www.youtube.com/@ninjazhustlerr"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-0D1117?style=flat-square&amp;logo=youtube&amp;logoColor=white" /></a>
+<a href="https://www.instagram.com/ninjaxhustlerr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&amp;logo=instagram&amp;logoColor=white" /></a>
+
+</div>
+
+> **Now:** **Save & Send** `1.3.2` · **SkillSleuth** `0.4.0` · agent infrastructure at **NinjaLabs**
 
 ---
 
@@ -23,104 +25,91 @@
 ### [Save & Send](https://github.com/AdilSiddiquiHQ/save-and-send)
 
 <p>
-  <img alt="Stars" src="https://img.shields.io/github/stars/AdilSiddiquiHQ/save-and-send?style=flat-square&amp;labelColor=0d1117&amp;color=10b981" />
-  <img alt="Release" src="https://img.shields.io/github/v/release/AdilSiddiquiHQ/save-and-send?style=flat-square&amp;labelColor=0d1117&amp;color=10b981" />
-  <img alt="CI" src="https://github.com/AdilSiddiquiHQ/save-and-send/actions/workflows/ci.yml/badge.svg" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&amp;logo=flutter&amp;logoColor=02569b" />
-  <img alt="Android" src="https://img.shields.io/badge/Android%207.0+-0d1117?style=flat-square&amp;logo=android&amp;logoColor=3ddc84" />
+  <img alt="v1.3.2" src="https://img.shields.io/github/v/release/AdilSiddiquiHQ/save-and-send?style=flat-square&amp;labelColor=0D1117&amp;color=161B22" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-161B22?style=flat-square&amp;logo=flutter&amp;logoColor=white" />
+  <img alt="Android 7.0+" src="https://img.shields.io/badge/Android%207.0%2B-161B22?style=flat-square&amp;logo=android&amp;logoColor=white" />
+  <img alt="arm64-v8a" src="https://img.shields.io/badge/arm64--v8a-161B22?style=flat-square" />
+  <img alt="No backend" src="https://img.shields.io/badge/no%20backend-161B22?style=flat-square" />
 </p>
 
 A private Android app that turns a shared Instagram, Facebook, YouTube or TikTok link into an MP4 that WhatsApp will actually accept. Format selection, audio muxing, trimming and `+faststart` all happen on the phone — no accounts, no analytics, no server that has to be trusted with your links.
 
-<p align="center">
-  <img src="assets/save-and-send-strip.png" width="100%" alt="Save & Send: paste a link, split long clips under 60 seconds, send to WhatsApp or Status" />
-</p>
+<sub>8 releases · CI on every push · translations in Arabic and Urdu</sub>
 
 ### [SkillSleuth](https://github.com/AdilSiddiquiHQ/skillsleuth)
 
 <p>
-  <img alt="Stars" src="https://img.shields.io/github/stars/AdilSiddiquiHQ/skillsleuth?style=flat-square&amp;labelColor=0d1117&amp;color=22d3ee" />
-  <img alt="Release" src="https://img.shields.io/github/v/release/AdilSiddiquiHQ/skillsleuth?style=flat-square&amp;labelColor=0d1117&amp;color=22d3ee" />
-  <img alt="CI" src="https://github.com/AdilSiddiquiHQ/skillsleuth/actions/workflows/ci.yml/badge.svg" />
-  <img alt="Zero dependencies" src="https://img.shields.io/badge/runtime%20deps-0-0d1117?style=flat-square&amp;labelColor=22d3ee" />
-  <img alt="Rules" src="https://img.shields.io/badge/rules-75-0d1117?style=flat-square&amp;labelColor=0d1117" />
+  <img alt="v0.4.0" src="https://img.shields.io/github/v/release/AdilSiddiquiHQ/skillsleuth?style=flat-square&amp;labelColor=0D1117&amp;color=161B22" />
+  <img alt="Node 18+" src="https://img.shields.io/badge/Node%20%E2%89%A518-161B22?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" />
+  <img alt="Zero runtime dependencies" src="https://img.shields.io/badge/0%20runtime%20deps-161B22?style=flat-square" />
+  <img alt="75 rules" src="https://img.shields.io/badge/75%20rules-161B22?style=flat-square" />
+  <img alt="SARIF + CycloneDX" src="https://img.shields.io/badge/SARIF%20%C2%B7%20CycloneDX-161B22?style=flat-square" />
 </p>
 
 A security scanner for AI agent skills. Every other scanner reads the file; SkillSleuth reads *views* of the file — raw, deobfuscated, decoded and unpacked — so it reports the payload **and** the trick used to hide it. Built as a direct answer to the Trail of Bits audit that walked past the entire first generation of these tools in under an hour each.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdilSiddiquiHQ/skillsleuth/main/docs/demo.gif" width="560" alt="SkillSleuth catching a base64-hidden curl payload" />
-</p>
+<sub>Reports its own false-positive rate instead of asserting precision</sub>
 
 ### [a11y-skills](https://github.com/AdilSiddiquiHQ/a11y-skills)
 
 <p>
-  <img alt="Stars" src="https://img.shields.io/github/stars/AdilSiddiquiHQ/a11y-skills?style=flat-square&amp;labelColor=0d1117&amp;color=a78bfa" />
-  <img alt="Release" src="https://img.shields.io/github/v/release/AdilSiddiquiHQ/a11y-skills?style=flat-square&amp;labelColor=0d1117&amp;color=a78bfa" />
-  <img alt="CI" src="https://github.com/AdilSiddiquiHQ/a11y-skills/actions/workflows/ci.yml/badge.svg" />
-  <img alt="WCAG" src="https://img.shields.io/badge/WCAG%202.2-70%20of%2086%20criteria-0d1117?style=flat-square&amp;labelColor=a78bfa" />
-  <img alt="Skills" src="https://img.shields.io/badge/skills-33-0d1117?style=flat-square&amp;labelColor=0d1117" />
+  <img alt="v0.4.0" src="https://img.shields.io/github/v/release/AdilSiddiquiHQ/a11y-skills?style=flat-square&amp;labelColor=0D1117&amp;color=161B22" />
+  <img alt="WCAG 2.2" src="https://img.shields.io/badge/WCAG%202.2-161B22?style=flat-square" />
+  <img alt="70 of 86 criteria" src="https://img.shields.io/badge/70%20of%2086%20criteria-161B22?style=flat-square" />
+  <img alt="14 executable fixtures" src="https://img.shields.io/badge/14%20fixtures-161B22?style=flat-square" />
+  <img alt="MIT" src="https://img.shields.io/badge/MIT-161B22?style=flat-square" />
 </p>
 
 33 procedures covering **every WCAG 2.2 Level A and AA success criterion**, plus an audit command that maps each axe-core finding to the exact skill that fixes it. Each skill is a procedure — when to reach for it, ordered steps, a verification step, and the failure modes — because that is the shape an agent can follow and a reviewer can reject in a pull request.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdilSiddiquiHQ/a11y-skills/main/docs/demo.gif" width="440" alt="axe-core findings mapped to fixes" />
-</p>
+<sub>Zero runtime dependencies · installs with a single <code>npx</code> call</sub>
 
 ### [Drosophila Connectome Chess](https://github.com/AdilSiddiquiHQ/fly-connectome-chess)
 
 <p>
-  <img alt="Stars" src="https://img.shields.io/github/stars/AdilSiddiquiHQ/fly-connectome-chess?style=flat-square&amp;labelColor=0d1117&amp;color=f472b6" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-MPS-0d1117?style=flat-square&amp;logo=pytorch&amp;logoColor=ee4c2c" />
-  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-WebGL-0d1117?style=flat-square&amp;logo=threedotjs&amp;logoColor=ffffff" />
-  <img alt="Neurons" src="https://img.shields.io/badge/neurons-164%2C000-0d1117?style=flat-square&amp;labelColor=f472b6" />
+  <img alt="164k neurons" src="https://img.shields.io/badge/164%2C000%20neurons-161B22?style=flat-square" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-161B22?style=flat-square&amp;logo=pytorch&amp;logoColor=white" />
+  <img alt="MPS" src="https://img.shields.io/badge/MPS%20accelerated-161B22?style=flat-square" />
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-161B22?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" />
 </p>
 
 A biological neural network, digitised and trained to play chess. The open-source fruit-fly connectome — 164,000 neurons — is wired to a chessboard through its simulated optic nerves and descending motor neurons, with a virtual dopamine reward carving pathways into the PyTorch tensor matrix every time it plays a good move.
+
+<sub>Weights ship in-repo, so a clone starts from the exact biological synaptic state</sub>
+
+---
+
+## How I build
+
+**Zero runtime dependencies is a feature.** SkillSleuth and a11y-skills both install as a single `npx` call with an empty `dependencies` block. Nothing to audit, nothing to break, nothing between the user and the tool.
+
+**A claim without a test is a guess.** a11y-skills ships 14 executable fixtures, and its demo build refuses to run if the "after" example is not actually clean. SkillSleuth measures how often it flags honest skills, because "75 rules" means nothing if the rules are wrong.
+
+**The device beats the server.** Save & Send has no backend because none of it needs one. Local-first is not a marketing position — it is a smaller attack surface, a smaller bill and a faster answer.
 
 ---
 
 ## Stack
 
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178c6" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&amp;logo=python&amp;logoColor=ffd43b" />
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&amp;logo=dart&amp;logoColor=0175c2" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&amp;logo=javascript&amp;logoColor=f7df1e" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&amp;logo=postgresql&amp;logoColor=4169e1" />
-</p>
-<p>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=ffffff" />
-  <img alt="React" src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&amp;logo=react&amp;logoColor=61dafb" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&amp;logo=flutter&amp;logoColor=02569b" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=5fa04e" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=06b6d4" />
-</p>
-<p>
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&amp;logo=supabase&amp;logoColor=3ecf8e" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&amp;logo=postgresql&amp;logoColor=4169e1" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ed" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=ffffff" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/Actions-0d1117?style=for-the-badge&amp;logo=githubactions&amp;logoColor=2088ff" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&amp;logo=linux&amp;logoColor=fcc624" />
-</p>
+<div align="center">
+
+<img alt="TypeScript, JavaScript, Python, Dart, Node.js, Next.js, React, Tailwind, Supabase, PostgreSQL, Docker, Git, PyTorch, Linux" src="https://skillicons.dev/icons?i=ts,js,py,dart,nodejs,nextjs,react,tailwind,supabase,postgres,docker,git,pytorch,linux&amp;perline=14&amp;theme=dark" />
+
+</div>
 
 ---
 
 ## Numbers
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdilSiddiquiHQ&amp;theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdilSiddiquiHQ&amp;theme=default" />
-    <img width="700" alt="Contribution summary for AdilSiddiquiHQ" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdilSiddiquiHQ&amp;theme=github_dark" />
-  </picture>
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/AdilSiddiquiHQ/AdilSiddiquiHQ/output/snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdilSiddiquiHQ&amp;theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdilSiddiquiHQ&amp;theme=default" />
+  <img width="700" alt="Contribution summary for AdilSiddiquiHQ" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdilSiddiquiHQ&amp;theme=github_dark" />
+</picture>
+
+</div>
 
 ---
 
@@ -132,6 +121,8 @@ Everything since has been one long attempt to keep that curiosity and add the di
 
 ---
 
-<p align="center">
-  <sub>Most of my work is private. The four above are the ones worth reading.</sub>
-</p>
+<div align="center">
+
+<sub>Most of my work is private. The four above are the ones worth reading.</sub>
+
+</div>
