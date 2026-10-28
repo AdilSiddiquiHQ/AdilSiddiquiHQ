@@ -1,63 +1,94 @@
 <div align="center">
 
-<!-- Elite Typing Header (Replaces broken emoji) -->
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&size=45&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=ADIL+SIDDIQUI;NINJA.69" alt="ADIL SIDDIQUI" />
+<h1>Adil Siddiqui</h1>
 
-### Founder & CEO @ [NinjaLabs](https://www.adilsiddiqui.xyz/) • AI Architect • Surgical Engineer
+**Founder, [NinjaLabs](https://www.adilsiddiqui.xyz/)** &nbsp;·&nbsp; I build software that runs where there is no server.
 
----
+<sub>Local-first apps &nbsp;·&nbsp; agent tooling that survives adversarial input &nbsp;·&nbsp; whatever the problem actually needs</sub>
 
-` [ STATUS: ACTIVE ] ` &nbsp; ` [ LEVEL: ELITE ] ` &nbsp; ` [ ROLE: ARCHITECT ] `
+<br />
 
----
+<a href="https://www.adilsiddiqui.xyz/"><img alt="Website" src="https://img.shields.io/badge/Website-0D1117?style=flat-square&amp;logo=safari&amp;logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/adil-siddiqui-227474355"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="https://x.com/AdilSiddiquiHQ"><img alt="X" src="https://img.shields.io/badge/X-0D1117?style=flat-square&amp;logo=x&amp;logoColor=white" /></a>
+<a href="https://www.youtube.com/@ninjazhustlerr"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-0D1117?style=flat-square&amp;logo=youtube&amp;logoColor=white" /></a>
+<a href="https://www.instagram.com/ninjaxhustlerr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&amp;logo=instagram&amp;logoColor=white" /></a>
 
 </div>
 
-### ⚡ THE SURGICAL MISSION
-I deliver **Surgical Software Engineering**—the intersection of extreme speed and production-grade precision. As the founder of **NinjaLabs**, I architect AI systems that scale.
-
-- 🚀 **Currently Building**: [FundedAI](https://fundedai.com) & [HeightX](https://heightx.app).
-- 🐍 **Stack**: Python Expert • TypeScript • Next.js • Agentic AI.
-- 🎯 **Philosophy**: Speed is the only moat. Precision is the only standard.
+> **Now:** shipping **Save & Send** `1.3.2` · hardening **SkillSleuth** `0.4.0` · building agent infrastructure at **NinjaLabs**
 
 ---
 
-### 🛠️ THE NINJA TOOLSET
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D4FF" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00D4FF" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00D4FF" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00D4FF" />
-  <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=00D4FF" />
-  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=00D4FF" />
-  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=00D4FF" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00D4FF" />
-</p>
+## Selected work
+
+Most of what I write is private. These four are the ones worth reading.
+
+#### [Save & Send](https://github.com/AdilSiddiquiHQ/save-and-send)
+
+A private Android app that turns a shared Instagram, Facebook, YouTube or TikTok link into an MP4 that WhatsApp will actually accept. Format selection, audio muxing, trimming and `+faststart` all happen on the phone — because a server that sees your links is a server that has to be trusted with them.
+
+<sub>`Flutter` · `Dart` · `arm64` &nbsp;·&nbsp; **8 releases** &nbsp;·&nbsp; CI on every push &nbsp;·&nbsp; no accounts, analytics or backend</sub>
+
+#### [SkillSleuth](https://github.com/AdilSiddiquiHQ/skillsleuth)
+
+A security scanner for AI agent skills. Every existing scanner reads the file; SkillSleuth reads *views* of the file — raw, deobfuscated, decoded and unpacked — so it reports the payload **and** the trick used to hide it. Built as a direct answer to the Trail of Bits audit that walked past the entire first generation of these tools in under an hour each.
+
+<sub>`Node` · **75 rules** · zero dependencies &nbsp;·&nbsp; SARIF · CycloneDX · HTML &nbsp;·&nbsp; reports its own false-positive rate</sub>
+
+#### [a11y-skills](https://github.com/AdilSiddiquiHQ/a11y-skills)
+
+33 procedures covering **every WCAG 2.2 Level A and AA success criterion**, plus an audit command that maps each axe-core finding to the exact skill that fixes it. Each skill is a procedure — when to reach for it, ordered steps, a verification step, and the failure modes — because that is the shape an agent can follow and a reviewer can reject in a pull request.
+
+<sub>`Node` · **70 of 86 criteria** · 14 executable fixtures · zero dependencies · MIT</sub>
+
+#### [Drosophila Connectome Chess](https://github.com/AdilSiddiquiHQ/fly-connectome-chess)
+
+A biological neural network, digitised and trained to play chess. The open-source fruit-fly connectome — 164,000 neurons — is wired to a chessboard through its simulated optic nerves and descending motor neurons, with a virtual dopamine reward carving pathways into the PyTorch tensor matrix each time it plays a good move.
+
+<sub>`PyTorch` · `Three.js` · **164k neurons** &nbsp;·&nbsp; MPS-accelerated on Apple Silicon &nbsp;·&nbsp; weights ship in-repo</sub>
 
 ---
 
-### 📊 TACTICAL DATA
-<p align="center">
-  <!-- Streak Stats (Working) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninjaxhustlerr&theme=transparent&stroke=00D4FF&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="175" />
- 
+## Earlier work
 
-<p align="center">
-  <!-- Activity Graph (Working) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ninjaxhustlerr&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
+**2023–2024** — Discord and Minecraft tooling that shipped to real servers: [All-In-One-Discord-Bot](https://github.com/AdilSiddiquiHQ/All-In-One-Discord-Bot) (13★), [Hoggy-Bot](https://github.com/AdilSiddiquiHQ/Hoggy-Bot) (11★), [MinecraftAfkBot](https://github.com/AdilSiddiquiHQ/MinecraftAfkBot) (18 forks). Still the fastest way to learn how a community breaks your software the day after you ship it.
 
 ---
 
-### 🌐 CONNECT
-- 🔗 **Portfolio**: [adilsiddiqui.xyz](https://www.adilsiddiqui.xyz/)
-- 💼 **LinkedIn**: [Adil Siddiqui](https://www.linkedin.com/in/adil-siddiqui-227474355)
-- 📸 **Instagram**: [@ninjaxhustlerr](https://www.instagram.com/ninjaxhustlerr)
-- 🎥 **YouTube**: [@ninjazhustlerr](https://www.youtube.com/@ninjazhustlerr)
-- 👾 **Discord**: [Ninja](https://discord.gg/ninja)
+## How I build
+
+**Zero runtime dependencies is a feature.** SkillSleuth and a11y-skills both install as a single `npx` call with an empty `dependencies` block. Nothing to audit, nothing to break, nothing between the user and the tool.
+
+**A claim without a test is a guess.** a11y-skills ships 14 executable fixtures, and its demo build refuses to run if the "after" example is not actually clean. SkillSleuth measures how often it flags honest skills, because "75 rules" means nothing if the rules are wrong.
+
+**The device beats the server.** Save & Send has no backend because none of it needs one. Local-first is not a marketing position — it is a smaller attack surface, a smaller bill and a faster answer.
+
+---
+
+## Numbers
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdilSiddiquiHQ&amp;theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdilSiddiquiHQ&amp;theme=default" />
+  <img width="700" alt="Contribution summary for AdilSiddiquiHQ" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdilSiddiquiHQ&amp;theme=github_dark" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AdilSiddiquiHQ&amp;theme=github-dark&amp;hide_border=true&amp;short_numbers=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AdilSiddiquiHQ&amp;theme=default&amp;hide_border=true&amp;short_numbers=true" />
+  <img width="495" alt="Contribution streak for AdilSiddiquiHQ" src="https://streak-stats.demolab.com?user=AdilSiddiquiHQ&amp;theme=github-dark&amp;hide_border=true&amp;short_numbers=true" />
+</picture>
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=PRECISION+IN+EVERY+PIXEL;SPEED+IN+EVERY+LINE;SURGICAL+ENGINEERING" alt="Typing SVG" />
+
+<sub>Building at the edge of what runs on a phone, a laptop, or an agent's tool list.<br />
+Longest-running bet: that the best software is the kind you can read in an afternoon.</sub>
+
 </div>
