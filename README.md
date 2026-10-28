@@ -64,18 +64,19 @@ A security scanner for AI agent skills. Every other scanner reads the file; Skil
 
 <sub>Zero runtime dependencies · installs with a single <code>npx</code> call</sub>
 
-### [Drosophila Connectome Chess](https://github.com/AdilSiddiquiHQ/fly-connectome-chess)
+### [Chess vs. a Fruit Fly](https://github.com/AdilSiddiquiHQ/fly-connectome-chess)
 
 <p>
-  <img alt="164k neurons" src="https://img.shields.io/badge/164%2C000%20neurons-161B22?style=flat-square" />
+  <img alt="5,065,217 parameters" src="https://img.shields.io/badge/5M%20params-161B22?style=flat-square" />
+  <img alt="9,353 self-play games" src="https://img.shields.io/badge/9%2C353%20self--play%20games-161B22?style=flat-square" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-161B22?style=flat-square&amp;logo=pytorch&amp;logoColor=white" />
-  <img alt="MPS" src="https://img.shields.io/badge/MPS%20accelerated-161B22?style=flat-square" />
   <img alt="Three.js" src="https://img.shields.io/badge/Three.js-161B22?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" />
+  <img alt="Runs offline" src="https://img.shields.io/badge/runs%20offline-161B22?style=flat-square" />
 </p>
 
-A biological neural network, digitised and trained to play chess. The open-source fruit-fly connectome — 164,000 neurons — is wired to a chessboard through its simulated optic nerves and descending motor neurons, with a virtual dopamine reward carving pathways into the PyTorch tensor matrix every time it plays a good move.
+A 3D chess opponent that physically picks up your pieces and flies them across the board. Every legal move is scored by a five-million-parameter network trained on 9,353 self-play games — no search tree, no engine. The telemetry sidebar is half real and half theatre, and the README says exactly which half is which.
 
-<sub>Weights ship in-repo, so a clone starts from the exact biological synaptic state</sub>
+<sub>Named after the FlyWire dataset. Honest about not using it yet.</sub>
 
 ---
 
