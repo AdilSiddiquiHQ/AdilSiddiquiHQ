@@ -33,11 +33,7 @@
 A private Android app that turns a shared Instagram, Facebook, YouTube or TikTok link into an MP4 that WhatsApp will actually accept. Format selection, audio muxing, trimming and `+faststart` all happen on the phone — no accounts, no analytics, no server that has to be trusted with your links.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdilSiddiquiHQ/save-and-send/main/docs/screenshots/probe.png" width="176" alt="Paste a link and pick a quality" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/AdilSiddiquiHQ/save-and-send/main/docs/screenshots/parts.png" width="176" alt="Long clips are split under 60 seconds" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/AdilSiddiquiHQ/save-and-send/main/docs/screenshots/status.png" width="176" alt="One tap to WhatsApp or Status" />
+  <img src="assets/save-and-send-strip.png" width="100%" alt="Save & Send: paste a link, split long clips under 60 seconds, send to WhatsApp or Status" />
 </p>
 
 ### [SkillSleuth](https://github.com/AdilSiddiquiHQ/skillsleuth)
