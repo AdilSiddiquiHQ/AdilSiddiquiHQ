@@ -71,7 +71,7 @@ A security scanner for AI agent skills. Every other scanner reads the file; Skil
   <img alt="9,353 self-play games" src="https://img.shields.io/badge/9%2C353%20self--play%20games-161B22?style=flat-square" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-161B22?style=flat-square&amp;logo=pytorch&amp;logoColor=white" />
   <img alt="Three.js" src="https://img.shields.io/badge/Three.js-161B22?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" />
-  <img alt="Runs offline" src="https://img.shields.io/badge/runs%20offline-161B22?style=flat-square" />
+  <img alt="Local inference" src="https://img.shields.io/badge/local%20inference-161B22?style=flat-square" />
 </p>
 
 A 3D chess opponent that physically picks up your pieces and flies them across the board. Every legal move is scored by a five-million-parameter network trained on 9,353 self-play games — no search tree, no engine. The telemetry sidebar is half real and half theatre, and the README says exactly which half is which.
