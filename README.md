@@ -74,7 +74,7 @@ A security scanner for AI agent skills. Every other scanner reads the file; Skil
   <img alt="Local inference" src="https://img.shields.io/badge/local%20inference-161B22?style=flat-square" />
 </p>
 
-A 3D chess opponent that physically picks up your pieces and flies them across the board. Every legal move is scored by a five-million-parameter network trained on 9,353 self-play games — no search tree, no engine. The telemetry sidebar is half real and half theatre, and the README says exactly which half is which.
+A 3D chess opponent that physically picks up your pieces and flies them across the board. Every legal move is scored by a five-million-parameter network trained on 9,353 self-play games — no search tree, no engine. The telemetry sidebar is half real and half theatre, the README says exactly which half is which, and every performance number in it comes from a benchmark you can re-run.
 
 <sub>Named after the FlyWire dataset. Honest about not using it yet.</sub>
 
